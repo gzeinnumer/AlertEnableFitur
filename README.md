@@ -3,6 +3,7 @@
 
 - Enable dialog that i use [MyLibDialog](https://github.com/gzeinnumer/MyLibDialog)
 
+- Main Code
 ```java
 public class MainActivity extends AppCompatActivity {
 
